@@ -1,7 +1,5 @@
--- PostgreSQL EXPORT
 -- 232,948 classified commits of 42 repos
 -- 
--- THE PAPER IS UNDER REVIEW
 --
 --
 -- TOC entry 2075 (class 0 OID 16410)
