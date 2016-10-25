@@ -1,5 +1,15 @@
--- 232,948 classified commits of 42 repos
--- 
+Data for BIANCA
+
+--
+-- TOC entry 2070 (class 0 OID 18784)
+-- Dependencies: 177
+-- Data for Name: clones; Type: TABLE DATA; Schema: public; Owner: math
+--
+-- time_origin (timestamp)
+-- commit_origin (SHA1)
+-- time_dest (timestamp)
+-- commit_dest (SHA1)S
+
 --
 --
 -- TOC entry 2075 (class 0 OID 16410)
